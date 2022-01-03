@@ -1,7 +1,5 @@
-<p align="left">
-  <img="https://github-readme-stats.vercel.app/api?username=ProgramMonkeyquan&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="450"/>&nbsp;
-  <img="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramMonkeyquan&layout=compact" alt = "my top language" width = "450"/>
-</p>
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ProgramMonkeyquan&show_icons=true&include_all_commits=false&theme=tokyonight&count_private=true&hide_border=true"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgramMonkeyquan&&hide=javascript,html,css&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 <!--
