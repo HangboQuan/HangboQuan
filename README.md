@@ -1,5 +1,6 @@
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProgramMonkeyquan&show_icons=true&theme=tokyonight" alt="my github stats" width="450"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ProgramMonkeyquan&show_icons=true&theme=tokyonight&count_private=true" alt="my github stats" width="450"/>&nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 
