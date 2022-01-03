@@ -1,4 +1,5 @@
-### Hi there 👋
+[![ProgramMonkeyquan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramMonkeyquan)](https://github.com/ProgramMonkeyquan)
+
 
 <!--
 **ProgramMonkeyquan/ProgramMonkeyquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
