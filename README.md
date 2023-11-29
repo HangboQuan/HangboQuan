@@ -1,4 +1,4 @@
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=HangboQuan&show_icons=true&include_all_commits=false&count_private=true&hide_border=true"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HangboQuan&&hide=javascript,html,css,vue&layout=compact&hide_border=true" /></a> |
+| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=HangboQuan&show_icons=true&include_all_commits=false&count_private=true&hide_border=true"/></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HangboQuan&exclude_repo=HotAsFire&hide=javascript,html,css,vue&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
